@@ -1,10 +1,6 @@
 # Visit
 Hiking iOS application
 
-## Install Dependencies
-- XCode
-- SFSymbols
-
 ## Running ContentView.swift
 - To run ContentView.swift, preferred XCode version: XCode 13.0+
 
